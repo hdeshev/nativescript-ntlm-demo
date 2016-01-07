@@ -1,0 +1,13 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.ntlm",
+    "tns-android": {
+      "version": "1.5.1"
+    }
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-ntlm": "^2.1.4",
+    "tns-core-modules": "1.5.1"
+  }
+}
